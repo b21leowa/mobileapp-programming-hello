@@ -3,7 +3,14 @@
 
 **Skriv din rapport här!**
 
-_Du kan ta bort all text som finns sedan tidigare_.
+[x] fork project
+[x] clone project
+[x] Update value in content_main.xml
+[x] Write a report and post a screenshot
+[x] git commit current change
+[x] git push -u origin master
+
+See screenshot for result.
 
 ## Följande grundsyn gäller dugga-svar:
 
@@ -33,7 +40,7 @@ function errorCallback(error) {
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](b21leowa.png)
 
 Läs gärna:
 
